@@ -1,1 +1,1 @@
-# Library-Management-
+This Library Management System is designed to manage the book inventory and handle the member information . It is a simple yet effective project to automate library operation . It store data from user and display it as needed.
